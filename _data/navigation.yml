@@ -1,6 +1,18 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: About
+  url: /about/
+  excerpt: About MUUG
   image:
+
+- title: Mailing Lists
+  url: /mailing-lists/
+  excerpt: Mailing Lists are hosted to facilitate communication.
+
+- title: Meetings
+  url: /meetings/
+  excerpt: The group holds its general meetings at 7:30pm on the second Tuesday of every month from September to June.
+
+- title: Mirror
+  url: /mirror/
+  excerpt: The group runs a mirror of open source software; This includes many common distributions.

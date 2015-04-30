@@ -1,0 +1,26 @@
+[
+	{
+		name: "announce",
+		description: "MUUG Announcements; low traffic.",
+		infoLink: "http://muug.mb.ca/mailman/listinfo/muug-announce",
+		archiveLink: "http://muug.mb.ca/pipermail/muug-announce/",
+	},
+	{
+		name: "roundtable",
+		description: "Community List; Originally continuation of the round table discussion.",
+		infoLink: "http://muug.mb.ca/mailman/listinfo/roundtable",
+		archiveLink: "http://muug.mb.ca/pipermail/roundtable/"
+	},
+	{
+		name: "jobs",
+		description: "Job postings and resumes",
+		infoLink: "http://muug.mb.ca/mailman/listinfo/jobs",
+		archiveLink: "http://muug.mb.ca/pipermail/jobs/"
+	},
+	{
+		name: "asterisk",
+		description: "Asterisk Open Source PBX Special Interest Group",
+		infoLink: "http://muug.mb.ca/mailman/listinfo/asterisk",
+		archiveLink: "http://muug.mb.ca/pipermail/asterisk/"
+	}
+]
